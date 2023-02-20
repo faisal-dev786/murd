@@ -6,6 +6,7 @@ export const Solutions = () => {
   return (
     <>
     <div className="wastesec  py-5 sm:py-14 ">
+        {/*  */}
         <div className="wrapper">
             <div className="wastebox">
                 <div className="wasteimage  ">
