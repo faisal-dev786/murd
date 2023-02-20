@@ -30,3 +30,4 @@ export const Bottle = () => {
     </>
   )
 }
+export default Bottle

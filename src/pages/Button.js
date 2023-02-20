@@ -5,3 +5,4 @@ export const Button = () => {
     <button className=" mt-6 h-[68px] w-[156px] rounded-lg bg-[#102668] font-medium text-[15px] leading-[28px] text-white " >HELLO </button>
   )
 }
+export default Button

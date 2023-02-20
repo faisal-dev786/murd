@@ -29,3 +29,4 @@ export const Fire = () => {
     </>
   )
 }
+export default Fire

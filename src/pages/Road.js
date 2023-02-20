@@ -30,3 +30,4 @@ export const Road = () => {
     </>
   )
 }
+export default Road
